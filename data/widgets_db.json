@@ -1,0 +1,42 @@
+{
+    "homepage": [
+        {
+            "id": "widget1",
+            "page_name": "homepage",
+            "header": "Welcome to Our Website - A",
+            "text": "Explore our latest features and updates - A.",
+            "thumbnail": "https://plus.unsplash.com/premium_photo-1671734045770-4b9e1a5e53a0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "Free",
+            "showToPercentage": 30
+        },
+        {
+            "id": "widget2",
+            "page_name": "homepage",
+            "header": "Welcome to Our Website - B",
+            "text": "Explore our latest features and updates - B.",
+            "thumbnail": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "Free",
+            "showToPercentage": 30
+        },
+        {
+            "id": "widget3",
+            "page_name": "homepage",
+            "header": "Welcome to Our Website - C",
+            "text": "Explore our latest features and updates - C.",
+            "thumbnail": "https://plus.unsplash.com/premium_photo-1725786485612-771a1c5cbb60?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "Free",
+            "showToPercentage": 40
+        }
+    ],
+    "aboutpage": [
+        {
+            "id": "widget4",
+            "page_name": "aboutpage",
+            "header": "About Us",
+            "text": "Learn more about our mission and vision.",
+            "thumbnail": "https://plus.unsplash.com/premium_photo-1676380337240-5da254e8936b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "Free",
+            "showToPercentage": 100
+        }
+    ]
+}
